@@ -46,10 +46,10 @@ margin-top: 50px;
     height: 7vh;
 }
 .logo h3{
-    color:rgb(18, 241, 241);
+    color:rgb(0, 0, 0);
     font-size: 25px;
     margin-top: -35px;
-
+     font-weight: 900;
     margin-left: 50px;
 }
 .nav ul{
@@ -61,7 +61,8 @@ margin-top: 50px;
 .nav ul li a{
     text-decoration: none;
     padding: 0px 20px;
-    color: rgb(227, 238, 227);
+    color: rgb(245, 244, 244);
+    font-weight: 700;
 }
 .nav ul li a:hover{
     color: teal;
@@ -120,13 +121,13 @@ margin-top: 50px;
     font-size: 17px;
 }
 span{
-    color: teal;
+    color: rgb(23, 24, 24);
     font-weight: bold;
 
 }
 .line1{
 height: 2px;
-background-color:rgb(18, 241, 241);
+background-color:rgb(0, 0, 0);
 width: 12%;
 margin-left: 0px;
 margin-top: 0px;
@@ -202,6 +203,9 @@ position: absolute;
     color: white;
     line-height: 1.5;
 }
+.navbar1{
+    color: #000000;
+}
 .heading1 h4{
     font-size: 15px;
 }
@@ -209,8 +213,8 @@ position: absolute;
     font-size: 12px;
 }
 .btn2{
-    margin-top: -30px;
-    margin-left: 150px;
+    margin-top: -17px;
+    margin-left: 179px;
 }
 .btn2 a{
     font-size: 13px;
@@ -462,7 +466,7 @@ position: absolute;
     font-weight: bolder;
     text-decoration: none;
 }
-.sollywood-movies{
+.channel-movies{
     position: absolute;
     width:100%;
     height: 75%;
@@ -471,41 +475,32 @@ position: absolute;
     color: white;
     margin-top: 2650px;
 }
-.sollywood-movies h1{
+.channel-h1{
     font-size: 20px;
     color:rgb(18, 241, 241);
 }
-.sollywood-container{
+.channel-container{
     margin-top: 30px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.sollywood-inside h3{
+.channel-inside h3{
     font-size: 15px;
     font-weight:500;
     margin-top: 6px;
    
 }
-.sollywood-inside img{
-   height: 250px;
+.channel-inside img{
+   height: 182px;
    border-radius: 10px;
    transition: all 500ms ease-in-out;
 }
-.sollywood-inside img:hover{
+.channel-inside img:hover{
     transform: scale(1.1);
     cursor: pointer;
 }
-.imdb{
-    background: teal;
-    border-radius:20px;
-    position:absolute;
-    padding: 10px 10px;
-    color: white;
-    margin-top: -80px;
-    margin-left: 120px;
-    font-weight: bolder;
-}
+
 .more5{
 position: absolute;
  margin-top: 860px;
