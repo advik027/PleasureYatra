@@ -285,12 +285,12 @@ position: absolute;
 }
 .more1{
 position: absolute;
- margin-top: 860px;
- margin-left: 1220px;
+ margin-top: 878px;
+ margin-left: 1390px;
 }
 .more1 a{
 
-    color:teal;
+    color:rgb(255, 255, 255);
     font-weight: bolder;
     text-decoration: none;
 
@@ -369,11 +369,11 @@ position: absolute;
 
 .more3{
     position: absolute;
-    margin-top: 1300px;
-    margin-left: 1220px;
+    margin-top: 1323px;
+    margin-left: 1390px;
 }
 .more3 a{
-    color:teal;
+    color:rgb(255, 255, 255);
     font-weight: bolder;
     text-decoration: none;
 }
@@ -414,10 +414,10 @@ position: absolute;
 .more2{
     position: absolute;
  margin-top: 1730px;
- margin-left: 1220px;
+ margin-left: 1390px;
 }
 .more2 a{
-   color: teal;
+   color: rgb(255, 255, 255);
     font-weight: bolder;
     text-decoration: none;
 }
@@ -458,11 +458,11 @@ position: absolute;
   
 .more4{
     position: absolute;
- margin-top: 2200px;
- margin-left: 1220px;
+ margin-top: 2222px;
+ margin-left: 1390px;
 }
 .more4 a{
-    color:teal;
+    color:rgb(254, 254, 254);
     font-weight: bolder;
     text-decoration: none;
 }
@@ -503,12 +503,12 @@ position: absolute;
 
 .more5{
 position: absolute;
- margin-top: 860px;
- margin-left: 1220px;
+ margin-top: 560px;
+ margin-left: 1390px;
 }
 .more5 a{
 
-    color:teal;
+    color:rgb(255, 255, 255);
     font-weight: bolder;
     text-decoration: none;
 }
