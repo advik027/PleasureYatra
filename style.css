@@ -511,42 +511,8 @@ position: absolute;
     color:rgb(255, 255, 255);
     font-weight: bolder;
     text-decoration: none;
-}
-.akira{
 
-    position: absolute;
-    height:100%;
-    width: 100%;
-    background: black;
-    color: white;
-    margin-top: 3100px;
-}
-.yt-movies{
-    padding: 10px 170px;
-    line-height: 1.9;
-}
-.yt-movies h1{
-    color:rgb(18, 241, 241);
-}
-.yt-movies p{
-    font-size: 25px;
-}
-.line{
-    height: 2px;
-    background-color: white;
-    width: 7%;
-    margin-left: 170px;
-    position: absolute;
-}
-.yt-container{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.inside-yt img{
-    padding: 10px 0px;
-    height: 350px;
-    border-radius: 50px;
+
 }
 .heading2 p{
     font-size: 15px;   
